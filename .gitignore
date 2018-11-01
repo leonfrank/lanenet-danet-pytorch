@@ -1,0 +1,9 @@
+*.pyc
+*.pkl
+*.png
+*.txt
+*.ipynb
+*.json
+*.pth
+*.jpg
+**/__pycache__/*
